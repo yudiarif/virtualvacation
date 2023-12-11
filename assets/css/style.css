@@ -9,6 +9,19 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+@font-face {
+  font-family: "Poppins";
+  src: url("/assets/font/poppins.ttf") format("ttf");
+}
+@font-face {
+  font-family: "Raleway";
+  src: url("/assets/font/raleway.ttf") format("ttf");
+}
+@font-face {
+  font-family: "Open Sans";
+  src: url("/assets/font/opensans.ttf") format("ttf");
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
